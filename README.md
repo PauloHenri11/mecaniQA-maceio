@@ -5,7 +5,7 @@ O projeto tem como objetivo desenvolver o módulo de análise e previsão da Mec
 
 A proposta é compreender o comportamento temporal da demanda por manutenções, realizar o tratamento e análise dos dados e criar modelos iniciais de previsão para servir como referência para futuras soluções de Machine Learning.
 
-##Resultado dos Baselines:
+#Resultado dos Baselines:#
  
 Na avaliação com validação temporal, o modelo Naive apresentou o melhor desempenho geral.
  
@@ -19,5 +19,7 @@ Equipe
 Time: Maceió
 
 Paulo Henrique
+
 Kauã Henrique
+
 João Henrique
