@@ -40,7 +40,7 @@ Também comparamos o tempo de execução e a precisão das duas estratégias de 
 Os três modelos foram avaliados sobre os mesmos 143 registros de teste.
 
 | Modelo | MAE | RMSE | MAPE |
-|---|---|---|---|
+|   |   |   |   |
 | Baseline Naive | 6,49 | 8,91 | 26,95% |
 | Random Forest Inicial | 3,12 | 4,23 | 14,19% |
 | Random Forest Tunado | 3,16 | 4,22 | 14,21% |
